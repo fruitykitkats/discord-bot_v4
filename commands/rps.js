@@ -1,4 +1,4 @@
-// Copyright (c) 2020 FruityKitKats. All rights reserved.
+// Copyright (c) 2018 FruityKitKats. All rights reserved.
 
 const {RichEmbed} = require('discord.js');
 
