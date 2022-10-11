@@ -1,4 +1,4 @@
-// Copyright (c) 2020 FruityKitKats. All rights reserved.
+// Copyright (c) 2018 FruityKitKats. All rights reserved.
 
 // Packages:
 require('dotenv').config(); // Make sure to create a .env file!!
@@ -39,7 +39,6 @@ client.user.setActivity("STATUS_HERE", {
         type: "PLAYING", // You can also use watching or streaming
         //url: "https://www.twitch.tv/YOUR_CHANNEL" 
         // For streaming option
-        });
 });
 
 // Discord Login
